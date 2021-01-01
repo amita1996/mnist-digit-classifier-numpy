@@ -1,6 +1,6 @@
 # Classifying handwritten digits using Neural Networks with numpy only
 
-The data was downloaded from kaggle.
+The data was downloaded from kaggle (https://www.kaggle.com/c/digit-recognizer/data).
 
 The accuracy of my model is 97.77%.
 
